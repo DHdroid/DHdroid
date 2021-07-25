@@ -1,4 +1,5 @@
-- CSE@SNU | AI Research Engineer@VisualCamp
+## DongHyun Son
+-  CSE@SNU | AI Research Engineer@VisualCamp
 - About me: [Link](http://DHdroid.github.io/about/)
 - Love problem solving!
   - Codeforces: [diordhd](https://codeforces.com/profile/diordhd) 
