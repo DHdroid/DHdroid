@@ -5,4 +5,4 @@
   - Codeforces: [diordhd](https://codeforces.com/profile/diordhd) 
   - A member of Team Little Piplup ([Team note](https://github.com/gratus907/Little_Piplup))
 - Interested in NLP/Computer Vision
-- Email: happydh1@snu.ac.kr
+- How to reach me: [linkedin](https://www.linkedin.com/in/dhdroid/) [blog](https://dhdroid.github.io/)
