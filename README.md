@@ -1,8 +1,7 @@
 ## DongHyun Son
--  CSE@SNU | AI Research Engineer@VisualCamp
-- About me: [Link](http://DHdroid.github.io/about/)
+-  CSE @ SNU | AI Research Engineer @ VisualCamp
 - Love problem solving!
   - Codeforces: [diordhd](https://codeforces.com/profile/diordhd) 
   - A member of Team Little Piplup ([Team note](https://github.com/gratus907/Little_Piplup))
-- Interested in NLP/Computer Vision
+- Research Interest: Gaze Estimation, Computer Vision, Natural Language Processing
 - How to reach me: [linkedin](https://www.linkedin.com/in/dhdroid/) [blog](https://dhdroid.github.io/)
