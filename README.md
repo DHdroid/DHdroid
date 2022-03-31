@@ -1,5 +1,5 @@
 ## DongHyun Son
--  CSE @ SNU | AI Research Engineer @ VisualCamp
+-  CSE @ SNU | Machine Learning Engineer @ HyperConnect
 - Love problem solving!
   - Codeforces: [diordhd](https://codeforces.com/profile/diordhd) 
   - A member of Team Little Piplup ([Team note](https://github.com/gratus907/Little_Piplup))
