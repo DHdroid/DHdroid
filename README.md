@@ -1,6 +1,11 @@
 ## DongHyun Son
-- CSE @ SNU | ex-Hyperconnect (Machine Learning Engineer)
+- CSE @ SNU
+- ex-Hyperconnect (of Match Group)
+  - Built an ML-based content moderation system for Match Group Brands
+- Interested in research topics regarding...
+  - [Modular deep learning](https://www.modulardeeplearning.com/)
+  - Different types of biases in in-context learning scenarios
+  - kNN-like approaches when using LLM (kNN Prompting, kNN-LM)
 - Love algorithmic problem solving!
   - Codeforces: [diordhd](https://codeforces.com/profile/diordhd) 
-  - Participated in ICPC, UCPC, SCPC, Google HashCode, etc
-- How to reach me: [linkedin](https://www.linkedin.com/in/dhdroid/) [blog](https://dhdroid.github.io/)
+- How to reach me: [linkedin](https://www.linkedin.com/in/dhdroid/)
