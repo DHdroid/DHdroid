@@ -1,11 +1,11 @@
 ## DongHyun Son
 - CSE @ SNU
-- ex-Hyperconnect (of Match Group)
-  - Built an ML-based content moderation system for Match Group Brands
-- Interested in research topics regarding...
-  - [Modular deep learning](https://www.modulardeeplearning.com/)
-  - Different types of biases in in-context learning scenarios
-  - kNN-like approaches when using LLM (kNN Prompting, kNN-LM)
+- Work Experiences
+  - Built an ML-based content moderation system @ Hyperconnect
+  - Worked on an appearance-based gaze estimation model for mobile SDK @ Visualcamp
+- Interested in AI efficiency
+  - Data Efficiency: Domain Generalization, In-Context Learning, Modular Deep Learning
+  - Computational Efficiency: Quantization, Efficient Kernel, Parallelism
 - Love algorithmic problem solving!
   - Codeforces: [diordhd](https://codeforces.com/profile/diordhd) 
 - How to reach me: [linkedin](https://www.linkedin.com/in/dhdroid/)
