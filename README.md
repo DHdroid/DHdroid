@@ -7,5 +7,6 @@
   - Data Efficiency: Domain Generalization, In-Context Learning, Modular Deep Learning
   - Computational Efficiency: LLM PTQ, Attention Sparsity, KV Cache Compression
 - Love algorithmic problem solving!
-  - Codeforces: [diordhd](https://codeforces.com/profile/diordhd) 
+  - Codeforces: [diordhd](https://codeforces.com/profile/diordhd)
+  - Baekjoon Online Judge: [dhdroid](https://www.acmicpc.net/user/dhdroid)
 - How to reach me: [linkedin](https://www.linkedin.com/in/dhdroid/)
