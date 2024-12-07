@@ -1,11 +1,1 @@
-## DongHyun Son
-- An undergraduate student majoring Computer Science and Engineering @ SNU
-- Work experiences
-  - Built an ML-based content moderation system @ Hyperconnect
-  - Worked on an appearance-based gaze estimation model for mobile SDK @ Visualcamp
-- Interested in efficient AI
-  - data efficiency: domain generalization, in-context learning, modular deep learning
-  - computational efficiency: LLM PTQ, attention sparsity, KV cache compression
-- Love algorithmic problem solving!
-  - Codeforces: [diordhd](https://codeforces.com/profile/diordhd) / Baekjoon Online Judge: [dhdroid](https://www.acmicpc.net/user/dhdroid)
-- How to reach me: [linkedin](https://www.linkedin.com/in/dhdroid/) / [X](https://x.com/dhdroiid) / [Blog](https://dhdroid.github.io/) (Not maintained)
+## [DongHyun Son]( https://dhdroid.github.io/)
